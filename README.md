@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amarjotgill
 - 👀 I’m interested in Software Engineering
-- 🌱 I know Python,C++, Java, JS,CSS, and HTML
+- 🌱 I know Python,C++, Java, JS,CSS,ReactJs, and HTML
 - 💞️ I’m looking to collaborate on any projects!
 - 📫 How to reach me email - @agill3@umbc.edu
 
